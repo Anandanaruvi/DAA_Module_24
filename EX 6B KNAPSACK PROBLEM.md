@@ -12,8 +12,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 ## Program:
 ```
 /*
-Developed by: LEANN JOBY MATHEW
-Register Number: 212222230074
+Developed by: A.ARUVI.
+Register Number: 212222230014.
 */
 ```
 ```
