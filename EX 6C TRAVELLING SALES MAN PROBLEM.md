@@ -17,8 +17,8 @@ To Solve Travelling Sales man Problem for the following graph.
 ## Program:
 ```
 /*
-Developed by: LEANN JOBY MATHEW
-Register Number: 212222230074
+Developed by: A.ARUVI.
+Register Number: 212222230014.
 */
 ```
 ```
